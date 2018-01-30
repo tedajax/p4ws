@@ -1,5 +1,9 @@
 import argparse
 
+# For privacy reasons all the p4 config vars are unset.
+# Fill them in with information of your p4 server.
+
+# Location of p4config file.  Should be the same as your P4CONFIG environment variable.
 p4config = ''
 
 p4port = ''
